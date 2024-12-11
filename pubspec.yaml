@@ -1,7 +1,7 @@
 name: image_slider
 description: "Slider image in Flutter"
-version: 0.0.1
-homepage:
+version: 0.0.2
+homepage: https://github.com/Alitaheri1374/image_slider
 
 environment:
   sdk: ^3.5.4
